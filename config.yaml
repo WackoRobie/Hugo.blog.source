@@ -1,0 +1,9 @@
+---
+baseurl: "http://wackorobie.github.io"
+languageCode: "en-us"
+title: "Robinson central"
+params:
+  Description: "Networking, Cycling, and Learning"
+  twitter: "WackoRobie"
+  github: "WackoRobie"
+...
