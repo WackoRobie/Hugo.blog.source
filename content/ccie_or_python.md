@@ -5,3 +5,4 @@ title = "Which one to focus on, CCIE or Python?"
 
 +++
 
+Just need to do some git push/pull testing.
